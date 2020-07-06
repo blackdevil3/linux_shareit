@@ -21,7 +21,7 @@ echo -e  "     Connected your wife press enter to continue... \c"
 read
 echo 
 
-echo -e "\t\t ++++++++++++++++++ Only Sending not Receiving any files +++++++++++++++++++\n"
+echo -e "\t\t ------------------ Only Sending not Receiving any files -------------------\n"
 
 
 
@@ -54,12 +54,12 @@ read filename
 if [ -e $filename ]
 then
 echo
-echo "your file is copy to a  -> '/var/www/sender' directory. so you wait..."
+echo "your file is copy to a  -> '/var/www/sender' directory. so wait..."
 cp -r $filename /var/www/html/sender
 sleep 1
 echo -e "\n ifconfig is running...\n"
 ifconfig
-echo -e "\n\n =============================FinalStep==============================================================="
+echo -e "\n\n ============================= Important ===================================================="
 
 
 echo -e "\t'First see above and Copy your wlan0 inet address,
