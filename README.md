@@ -1,7 +1,7 @@
                                        
 ====================================== #linux_shareit ========================================
 
-  The is a my own scripting.
+  The is a my own script of linux files sharing.
   It used to sharing the files and directorys,is one device to another device,
   (i.e) Linux to Android or Windows ,and one more thing is only for sending technology
   don't receive any file for receiver.
