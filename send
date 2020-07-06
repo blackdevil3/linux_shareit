@@ -45,7 +45,7 @@ echo "__________________________________________________________________________
 
 
 echo 
-echo -n "See above your files and enter the sharing  your file name with apsoluitly:";
+echo -n "See above your files and enter the sharing your file name with absolutely:";
 read filename
 
 
@@ -63,8 +63,8 @@ echo -e "\n\n =============================FinalStep============================
 
 
 echo -e "\t'First see above and Copy your wlan0 inet address,
-       \n\tand paste the inet ip address on the receving device brower to download the files.'
-\n\n\t example your 'wlan0 ip address is ( 192.10.42:33 )' this ip address enter the receving
+       \n\t and paste the inet ip address on the receving device brower to download the files.'
+\n\n\t example your 'wlan0 ip address is ( 192.10.42:33 )' this ip address is enter the receving
 \n\t device browser use to get your files."
 
 echo "===================================================================================================="
